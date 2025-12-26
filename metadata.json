@@ -1,0 +1,8 @@
+{
+  "name": "Driver Helper",
+  "description": "A comprehensive companion app for professional drivers featuring SOS emergency alerts, income tracking, voice-enabled AI assistance, and community support.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
